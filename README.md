@@ -1,2 +1,8 @@
-# B.S in Accounting at the University of North Carolina at Charlotte
+# Schooling
+## B.S in Accounting at the University of North Carolina at Charlotte
 
+
+
+#About Me
+
+#
