@@ -1,7 +1,7 @@
 # About Me
 ### Education
-   B.S in Accounting - December 2024
+&emsp; B.S in Accounting - December 2024
   
-   Minor in Data Science
+&emsp; Minor in Data Science
   
 ### Projects
