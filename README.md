@@ -9,3 +9,7 @@
 &emsp; Minor in Data Science
   
 ### Projects
+
+&emsp; [Econ 3112 Project: The Effect of High School Drop Out Rates on Crime Rates] (/ECON 3112 001 Project Paper.pdf)
+
+
