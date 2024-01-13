@@ -15,7 +15,7 @@
 ---
 
 ---
-[Econ 3112 Project: The Effect of High School Drop Out Rates on Crime Rates](assets/ECON 3112 001 Project Paper.pdf)
+[Econ 3112 Project: The Effect of High School Drop Out Rates on Crime Rates]:assets/ECON 3112 001 Project Paper.pdf
 
 ---
 
