@@ -1,5 +1,4 @@
 # About Me
-(https://damullutkid.github.io/assets/IMG_4647.JPG\)
 ---
 
 &emsp; I'm passionate about computers and finance and hope to work as a public auditor with the objective of improving efficency with my skills in data analysis. 
@@ -20,6 +19,7 @@
 ---
 
 <a href="https://damullutkid.github.io/assets/ECON 3112 001 Project Paper.pdf" target="_blank">ECON 3112 Project</a>
+
 
 ---
 
