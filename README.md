@@ -18,7 +18,7 @@
 
 ---
 
-[ECON Project] <a href="https://damullutkid.github.io/assets/ECON 3112 001 Project Paper.pdf" target="_blank">Open PDF</a>
+<a href="https://damullutkid.github.io/assets/ECON 3112 001 Project Paper.pdf" target="_blank">ECON 3112 Project</a>
 
 ---
 
