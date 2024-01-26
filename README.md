@@ -18,9 +18,7 @@
 
 ---
 
-[Econ 3112 Project: The Effect of High School Drop Out Rates on Crime Rates](https://github.com/damullutkid/damullutkid.github.io/blob/a1c97fb2eac1f010473446969b0fdf95b490e026/assets/ECON%203112%20001%20Project%20Paper.pdf)
-
-<a href="https://damullutkid.github.io/assets/ECON 3112 001 Project Paper.pdf" target="_blank">Open PDF</a>
+[ECON Project] <a href="https://damullutkid.github.io/assets/ECON 3112 001 Project Paper.pdf" target="_blank">Open PDF</a>
 
 ---
 
