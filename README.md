@@ -1,5 +1,5 @@
 # About Me
- ![Alt text](https://github.com/damullutkid/damullutkid.github.io/blob/main/assets/IMG_4647.JPG)
+\!\[Alt Text\]\(https://github.com/damullutkid/damullutkid.github.io/blob/main/assets/IMG_4647.JPG)
 ---
 
 &emsp; I'm passionate about computers and finance and hope to work as a public auditor with the objective of improving efficency with my skills in data analysis. 
